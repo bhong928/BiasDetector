@@ -15,7 +15,7 @@ const Header = () => {
                         <Link to="/">Home</Link>
                         <Link to="/Login">Login</Link>
                         <Link to="/Report">Report</Link>
-                        <Link to="/EmployeeDisplay">Employee Display</Link>
+                        <Link to="/EmployeeDisplay">Employee  Display</Link>
                     </>
                 )}
                 {location.pathname === "/Login" && (
